@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/google-keep/static/css/main.21e06d94.chunk.css",
+    "main.js": "/google-keep/static/js/main.37e9c695.chunk.js",
+    "main.js.map": "/google-keep/static/js/main.37e9c695.chunk.js.map",
+    "runtime-main.js": "/google-keep/static/js/runtime-main.4677b661.js",
+    "runtime-main.js.map": "/google-keep/static/js/runtime-main.4677b661.js.map",
+    "static/js/2.07bc485a.chunk.js": "/google-keep/static/js/2.07bc485a.chunk.js",
+    "static/js/2.07bc485a.chunk.js.map": "/google-keep/static/js/2.07bc485a.chunk.js.map",
+    "static/js/3.130904e5.chunk.js": "/google-keep/static/js/3.130904e5.chunk.js",
+    "static/js/3.130904e5.chunk.js.map": "/google-keep/static/js/3.130904e5.chunk.js.map",
+    "index.html": "/google-keep/index.html",
+    "static/css/main.21e06d94.chunk.css.map": "/google-keep/static/css/main.21e06d94.chunk.css.map",
+    "static/js/2.07bc485a.chunk.js.LICENSE.txt": "/google-keep/static/js/2.07bc485a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4677b661.js",
+    "static/js/2.07bc485a.chunk.js",
+    "static/css/main.21e06d94.chunk.css",
+    "static/js/main.37e9c695.chunk.js"
+  ]
+}
