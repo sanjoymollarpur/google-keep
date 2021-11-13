@@ -1,0 +1,32 @@
+.note{
+    width: 300px;
+    border: 1px solid rgb(179, 160, 160);
+    margin: auto;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+.con{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 60%;
+    margin: auto;
+    margin-top: 40px;
+}
+.btn{
+    margin-left: 80%;
+}
+.card{
+    width: 200px;
+}
+@media screen and (max-width:768px) {
+    .con{
+        width: 100%;
+        justify-content: space-around;
+    }
+    .card{
+        width: 90%;
+        text-align: center;
+        margin-top: 10px;
+    }
+}
